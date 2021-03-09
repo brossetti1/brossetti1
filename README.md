@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brossetti1&label=Profile%20views&color=0e75b6&style=plastic" alt="mini-pingu" /> </p>
+
+![Raptor's github stats](https://github-readme-stats.vercel.app/api?username=brosseti1&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brossetti1&layout=compact)
+
 <!--
 **brossetti1/brossetti1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
