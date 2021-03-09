@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brossetti1&label=Profile%20views&color=0e75b6&style=plastic" alt="mini-pingu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brossetti1&label=PROFILE+VIEWS&color=0e75b6&style=plastic" alt="mini-pingu" /> </p>
 
 ![Raptor's github stats](https://github-readme-stats.vercel.app/api?username=brosseti1&show_icons=true)
 
